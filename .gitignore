@@ -1,0 +1,17 @@
+# Временные файлы Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+*.exe
+*.config
+
+# Файлы пользователя
+results.txt
+
+# Файлы сборки
+FirstGame-main/FirstGame/bin/
+FirstGame-main/FirstGame/obj/
