@@ -6,7 +6,7 @@
 ### 1. **Скачивание кода**
 
 ```sh
-git clone https://github.com/DescR4/FirstGame.git
+git clone https://github.com/tobio76/FirstGame.git
 cd FirstGame
 ```
 
@@ -30,13 +30,4 @@ cd FirstGame
 - **Язык:** C#
 - **Среда разработки:** Visual Studio
 - **Графика:** Windows Forms (System.Drawing)
-
-## 📜 Лицензия
-
-Этот проект распространяется под лицензией **MIT**. Вы можете использовать код в любых целях, но автор не несет ответственности за возможные ошибки.
-
-## 📧 Контакты
-
-- **Автор:** [Spiryanov]
-- **GitHub:** [DescR4](https://github.com/DescR4)
 
